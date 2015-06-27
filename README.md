@@ -25,3 +25,21 @@ Did I miss any? Please contribute :)
 <img src="https://github.com/augbog/rainbow-logos/blob/master/images/verge.png" width="150" alt="The Verge"/>
 
 ![Whitehouse Tumblr](https://github.com/augbog/rainbow-logos/blob/master/images/whitehouse_tumblr.png)
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/at&t.png" width="150" alt="AT&T"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/buzzfeed.png" width="150" alt="Buzzfeed"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/entertainment_weekly.png" width="150" alt="Entertainment Weekly"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/hootsuite.jpg" width="150" alt="Hootsuite"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/linkedin.jpg" width="150" alt="LinkedIn"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/levis.jpg" width="150" alt="Levis"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/rdio.png" width="150" alt="Rdio"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/quartz.png" width="150" alt="Quartz"/>
+
+<img src="https://github.com/augbog/rainbow-logos/blob/master/images/spotify.png" width="150" alt="Spotify"/>
